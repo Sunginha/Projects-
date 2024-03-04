@@ -20,4 +20,4 @@ if newnot == 'no':
     print('name:', yesnt)
     print('Password:', npass)
     sure0 = str(input('Everything is right in here?'))
-    # I'm still new to all of this so i don't know how i add a database or make a verification system more efficient
+    # I'm still learning the basis from python and trying to create new projects and verification systems that comes in my mind at the time.
